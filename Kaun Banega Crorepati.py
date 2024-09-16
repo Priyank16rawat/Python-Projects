@@ -50,7 +50,7 @@ def Question_0():
 
   sambhav3 = (input("Enter Your Answer: "))
   
-  if sambhav3=='Rabindranath Tagore':
+  if sambhav3=='Rabindranath Tagore' or sambhav3=='A':
     print("Mubarak aapka jawab sahi hai aap jit te hain", reward[1], "ruyape")
 
   else:
